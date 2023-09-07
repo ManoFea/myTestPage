@@ -1,0 +1,1951 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.6601458,
+          49.8727379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb4b39f613fe2e915",
+        "Location": {
+          "Address": "Merckspl. 1, 64287 Darmstadt, Germany",
+          "Business Name": "Jugendstilbad",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "49.8727379",
+            "Longitude": "8.6601458"
+          }
+        },
+        "Published": "2022-08-09T19:58:42.329889Z",
+        "Review Comment": "Beautiful place to swim, nice salt baths. Very clean",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.8811766,
+          50.9380116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x873b8399e90ea719",
+        "Location": {
+          "Address": "Aachener Str. 704, 50933 Köln, Germany",
+          "Business Name": "Americano Restaurant & Cocktailbar",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "50.9380116",
+            "Longitude": "6.8811766"
+          }
+        },
+        "Published": "2022-08-09T19:58:02.046720Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.6519965,
+          52.1141808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x686fb73e30112f1d",
+        "Location": {
+          "Address": "Archeonlaan 1, 2408 ZB Alphen aan den Rijn, Netherlands",
+          "Business Name": "Archeon Museum Park",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.1141808",
+            "Longitude": "4.6519965"
+          }
+        },
+        "Published": "2022-08-09T19:57:24.756743Z",
+        "Review Comment": "Fantastic place for kids, informative and tons of fun",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.0193183,
+          50.7555233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdf7e0dae3f65e6a3",
+        "Location": {
+          "Address": "Viergrenzenweg 97, 6291 BM Vaals, Netherlands",
+          "Business Name": "Labyrint Drielandenpunt",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "50.7555233",
+            "Longitude": "6.0193183"
+          }
+        },
+        "Published": "2022-08-09T19:56:29.292257Z",
+        "Review Comment": "I thought I'd die here",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.0581648,
+          50.8610759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1e0c7da52094fd38",
+        "Location": {
+          "Address": "Museumplein 2, 6461 MA Kerkrade, Netherlands",
+          "Business Name": "Discovery Museum",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "50.8610759",
+            "Longitude": "6.0581648"
+          }
+        },
+        "Published": "2022-08-09T19:56:03.634857Z",
+        "Review Comment": "One of the best museums for kids. The 3d cinema was moving (for kids over 10 and adults),  lots to do for all ages",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.0975208,
+          50.7829370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbf0cac7ca8d8ac24",
+        "Location": {
+          "Address": "Passstraße 79, 52070 Aachen, Germany",
+          "Business Name": "Carolus Thermen",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "50.7829370",
+            "Longitude": "6.0975208"
+          }
+        },
+        "Published": "2022-08-09T19:54:51.544498Z",
+        "Review Comment": "Lovely, clean and relaxing",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.3011045,
+          48.4242278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc91cf9a6f6d07d88",
+        "Location": {
+          "Address": "Legoland-Allee 1, 89312 Günzburg, Germany",
+          "Business Name": "LEGOLAND Germany",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "48.4242278",
+            "Longitude": "10.3011045"
+          }
+        },
+        "Published": "2022-08-09T19:54:18.895291Z",
+        "Review Comment": "Very fun place for kids only because we spent hundreds on the toys. Legoland is overpriced and they do anything they can to take more and give less.",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1237496,
+          48.1412667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x208c8f4f673e66ff",
+        "Location": {
+          "Address": "Pribinova 17, 819 01 Staré Mesto, Slovakia",
+          "Business Name": "Slovak National Theatre",
+          "Country Code": "SK",
+          "Geo Coordinates": {
+            "Latitude": "48.1412667",
+            "Longitude": "17.1237496"
+          }
+        },
+        "Published": "2022-05-30T14:09:10.708012Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2759025,
+          52.0170837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdfa9d3eb5c39f2a0",
+        "Location": {
+          "Address": "'s-Gravenzandseweg 71-72, 2291 PE Wateringen, Netherlands",
+          "Business Name": "HORNBACH Bouwmarkt Wateringen",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0170837",
+            "Longitude": "4.2759025"
+          }
+        },
+        "Published": "2022-05-01T13:07:34.145463Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2914220,
+          52.0765899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x84de813b1a6c42d5",
+        "Location": {
+          "Address": "De Constant Rebecqueplein 20b, 2518 RA Den Haag, Netherlands",
+          "Business Name": "DCR building",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0765899",
+            "Longitude": "4.2914220"
+          }
+        },
+        "Published": "2022-03-11T09:34:25.921165Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.6850683,
+          52.5052176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x247bb53488a5bbe2",
+        "Location": {
+          "Address": "Tolweg 9, 1967 NG Heemskerk, Netherlands",
+          "Business Name": "Stayokay Hostel Heemskerk (Slot Assumburg)",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.5052176",
+            "Longitude": "4.6850683"
+          }
+        },
+        "Published": "2021-12-28T11:59:01.140644Z",
+        "Review Comment": "Beautiful castle, nice, caring staff. Tasty food even during the lockdown. BTW dear fellow reviewers, it's a Hostel, not a Hotel, good to keep that in mind. 1 tip, could be nice to cover up obscene writing on the walls.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3169466,
+          52.0791932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd517df7ad171aeb9",
+        "Location": {
+          "Address": "Korte Houtstraat 13, 2511 CC Den Haag, Netherlands",
+          "Business Name": "Tabletop Kingdom",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0791932",
+            "Longitude": "4.3169466"
+          }
+        },
+        "Published": "2021-12-18T12:58:56.742411Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2908207,
+          52.0509185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbdd2661996cffa9a",
+        "Location": {
+          "Address": "Roemer Visscherstraat 108, 2533 VG Den Haag, Netherlands",
+          "Business Name": "T. A. C. '90",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0509185",
+            "Longitude": "4.2908207"
+          }
+        },
+        "Published": "2021-11-08T18:49:33.150817Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2828409,
+          52.0767480
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5f0fcf5782b93e33",
+        "Location": {
+          "Address": "Regentesseplein 9, 2562 ET Den Haag, Netherlands",
+          "Business Name": "Queen Emma Memorial",
+          "Geo Coordinates": {
+            "Latitude": "52.0767480",
+            "Longitude": "4.2828409"
+          }
+        },
+        "Published": "2021-10-24T12:38:11.156183Z",
+        "Review Comment": "View from the Emma cafe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3412501,
+          52.0882909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb81d94e66e49c305",
+        "Location": {
+          "Address": "Theresiastraat 312, 2593 AZ Den Haag, Netherlands",
+          "Business Name": "Barbershop Den Haag | Beyond Male Grooming",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0882909",
+            "Longitude": "4.3412501"
+          }
+        },
+        "Published": "2021-10-06T12:26:56.803555Z",
+        "Review Comment": "A classy place....Great place for kids, sharp, elegant and very nicely priced. Will definitely go there regularly from now on.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2909657,
+          50.9864005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x20ee4feb653c7f35",
+        "Location": {
+          "Address": "Świecie 92, 59-820, Poland",
+          "Business Name": "Bikówka. Gospodarstwo agroturystyczne",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.9864005",
+            "Longitude": "15.2909657"
+          }
+        },
+        "Published": "2021-04-06T18:13:02.185685Z",
+        "Review Comment": "Had a great week with family at this place. Beautiful rustic place and beautiful views. Pool, trampoline, BBQ, farming, etc",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2833742,
+          52.0728098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xafa71e89caf27ac4",
+        "Location": {
+          "Address": "Van Swindenstraat 118, 2562 RN Den Haag, Netherlands",
+          "Business Name": "RN Productos Latinos",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0728098",
+            "Longitude": "4.2833742"
+          }
+        },
+        "Published": "2020-12-22T16:47:22.056864Z",
+        "Review Comment": "Buen lugar, buena gente",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3119635,
+          52.0745367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf78e3abf794e564a",
+        "Location": {
+          "Address": "Paviljoensgracht 20, 2512 BP Den Haag, Netherlands",
+          "Business Name": "RNDR",
+          "Geo Coordinates": {
+            "Latitude": "52.0745367",
+            "Longitude": "4.3119635"
+          }
+        },
+        "Published": "2020-11-18T10:52:11.045172Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3067152,
+          52.0782104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x81e5194f001db8ff",
+        "Location": {
+          "Address": "Prinsestraat 4, 2513 CD Den Haag, Netherlands",
+          "Business Name": "Hype Kappers",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0782104",
+            "Longitude": "4.3067152"
+          }
+        },
+        "Published": "2020-11-10T13:37:12.048389Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2028693,
+          52.0588797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb2f9d734bf5f535f",
+        "Location": {
+          "Address": "Zandmotorpad, 2554 GK Den Haag, Netherlands",
+          "Business Name": "BLOW Beach House",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0588797",
+            "Longitude": "4.2028693"
+          }
+        },
+        "Published": "2020-09-04T18:24:54.476261Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.6055828,
+          51.9702671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa57c3d0e3f9928c",
+        "Location": {
+          "Address": "Dorpsstraat 56, 2912 CB Nieuwerkerk aan den IJssel, Netherlands",
+          "Business Name": "Thai Restaurant Bangkok City",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "51.9702671",
+            "Longitude": "4.6055828"
+          }
+        },
+        "Published": "2020-08-19T20:13:46.684556Z",
+        "Review Comment": "Fantastic food, authentic, Thai confirmed",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.3225446,
+          50.9714951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x52dfd5169e528815",
+        "Location": {
+          "Address": "Frauenplan 21, 99817 Eisenach, Germany",
+          "Business Name": "Bach House",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "50.9714951",
+            "Longitude": "10.3225446"
+          }
+        },
+        "Published": "2020-08-07T19:13:23.290394Z",
+        "Review Comment": "Second visit, I always feel like it's not long enough. You get immersed in the composers life and the music. Special place!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1934316,
+          51.0503874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x21e5d66b37ff6b29",
+        "Location": {
+          "Address": "Rynek 1, 59-400 Jawor, Poland",
+          "Business Name": "Restauracja Ratuszowa - Jawor",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "51.0503874",
+            "Longitude": "16.1934316"
+          }
+        },
+        "Published": "2020-07-30T18:41:11.346683Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1939679,
+          51.0490996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8b35a24b3104aad3",
+        "Location": {
+          "Address": "Klasztorna 6, 59-400 Jawor, Poland",
+          "Business Name": "Regional Museum in Jawor",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "51.0490996",
+            "Longitude": "16.1939679"
+          }
+        },
+        "Published": "2020-07-30T14:00:59.637838Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6833760,
+          50.8650463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2fe114e52495e901",
+        "Location": {
+          "Address": "plac Piastowski 23, 58-560 Jelenia Góra, Poland",
+          "Business Name": "Quirino. Restauracja włoska",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.8650463",
+            "Longitude": "15.6833760"
+          }
+        },
+        "Published": "2020-07-28T17:39:29.574469Z",
+        "Review Comment": "Sweet ambiance, good food. Down to earth yet classy",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6831428,
+          51.0597487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9258b71974f8561b",
+        "Location": {
+          "Address": "Cossebauder Str. 15, 01157 Dresden, Germany",
+          "Business Name": "Gaststätte Oma",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "51.0597487",
+            "Longitude": "13.6831428"
+          }
+        },
+        "Published": "2020-07-27T18:03:28.153779Z",
+        "Review Comment": "Good German options, great classic good.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2718382,
+          50.8893547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x175c7bf3da9b8aa9",
+        "Location": {
+          "Address": "463 62 Lázně Libverda, Czechia",
+          "Business Name": "Smrk / Tafelfichte Observation Tower",
+          "Country Code": "CZ",
+          "Geo Coordinates": {
+            "Latitude": "50.8893547",
+            "Longitude": "15.2718382"
+          }
+        },
+        "Published": "2020-07-27T18:02:50.442549Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6829499,
+          50.8597752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x20b5b7c52883995d",
+        "Location": {
+          "Address": "Park Zdrojowy 5, 58-500 Jelenia Góra, Poland",
+          "Business Name": "Termy Cieplickie",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.8597752",
+            "Longitude": "15.6829499"
+          }
+        },
+        "Published": "2020-07-27T18:01:57.996210Z",
+        "Review Comment": "Great thermal waters, clean, organized, warm.",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.3237937,
+          50.9731640
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x54401c101b6731f1",
+        "Location": {
+          "Address": "Frauenberg 1, 99817 Eisenach, Germany",
+          "Business Name": "Eskinivvach Burger Eisenach",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "50.9731640",
+            "Longitude": "10.3237937"
+          }
+        },
+        "Published": "2020-07-19T18:58:37.981096Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3155773,
+          52.0345800
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x86483a375c787949",
+        "Location": {
+          "Address": "Pr. Beatrixlaan 975, 2284 BK Rijswijk, Netherlands",
+          "Business Name": "ANAC Carwash",
+          "Geo Coordinates": {
+            "Latitude": "52.0345800",
+            "Longitude": "4.3155773"
+          }
+        },
+        "Published": "2020-07-13T15:40:04.901841Z",
+        "Review Comment": "Great, super clean, friendly and fast. High powered vacuums for inside.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0309466,
+          51.1110259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6b0f17c903c29dde",
+        "Location": {
+          "Address": "Rynek 60, 50-116 Wrocław, Poland",
+          "Business Name": "Umami Dumpling & Pasta Bar",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "51.1110259",
+            "Longitude": "17.0309466"
+          }
+        },
+        "Published": "2020-02-24T18:59:12.907476Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0235451,
+          51.0566901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd9d23a8d6d4644ca",
+        "Location": {
+          "Address": "Bartłomieja Strachowskiego 7a, 52-210 Wrocław, Poland",
+          "Business Name": "Woławina",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "51.0566901",
+            "Longitude": "17.0235451"
+          }
+        },
+        "Published": "2020-02-23T17:45:36.782856Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2179641,
+          45.4930322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x413476b30d53ab96",
+        "Location": {
+          "Address": "Via Luigi Varanini, 5, 20127 Milano MI, Italy",
+          "Business Name": "NoLoSo",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4930322",
+            "Longitude": "9.2179641"
+          }
+        },
+        "Published": "2020-02-06T22:09:39.717941Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3236005,
+          52.0815611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x365485c37a7a8ef2",
+        "Location": {
+          "Address": "Kon. Julianaplein 10, 2515 BV Den Haag, Netherlands",
+          "Business Name": "StationsHuiskamer",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0815611",
+            "Longitude": "4.3236005"
+          }
+        },
+        "Published": "2020-02-04T08:47:57.690444Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2033922,
+          45.4828983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf81924ab8701d02",
+        "Location": {
+          "Address": "Via Napo Torriani, 22, 20124 Milano MI, Italy",
+          "Business Name": "Osteria italiana",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4828983",
+            "Longitude": "9.2033922"
+          }
+        },
+        "Published": "2020-02-04T08:46:59.298228Z",
+        "Review Comment": "Very Italian place,  seems popular with locals and tourists alike (but mainly locals) great,  great Italian food, fresh everything.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9009267,
+          52.3673062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7d258f6cdb314251",
+        "Location": {
+          "Address": "Amstel 3, 1011 PN Amsterdam, Netherlands",
+          "Business Name": "National Opera & Ballet",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.3673062",
+            "Longitude": "4.9009267"
+          }
+        },
+        "Published": "2020-02-03T08:41:05.118619Z",
+        "Review Comment": "Geary acoustics,  a bit tight for finding your seat but great for opera!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.3462450,
+          25.7695960
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe5eede3e7160891a",
+        "Location": {
+          "Address": "9231 W Flagler St Suite C-103, Miami, FL 33174, United States",
+          "Business Name": "Smoothie King",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "25.7695960",
+            "Longitude": "-80.3462450"
+          }
+        },
+        "Published": "2019-12-31T03:25:10.176414Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.1862341,
+          25.7786435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x65e5a3c6aa34f3f8",
+        "Location": {
+          "Address": "Slip 11, Miamarina at Bayside, 401 Biscayne Blvd, Miami, FL 33132, United States",
+          "Business Name": "Fiesta Cruises of Miami",
+          "Geo Coordinates": {
+            "Latitude": "25.7786435",
+            "Longitude": "-80.1862341"
+          }
+        },
+        "Published": "2019-12-22T00:13:07.180716Z",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7787051,
+          51.5951166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4713fe81b6a4624d",
+        "Location": {
+          "Address": "Stationsplein 36, 4811 BB Breda, Netherlands",
+          "Business Name": "Wayback Burgers",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "51.5951166",
+            "Longitude": "4.7787051"
+          }
+        },
+        "Published": "2019-11-19T12:03:18.283876Z",
+        "Review Comment": "Really decent burger, the Buffalo tenders are also a personal favorite.",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3123860,
+          52.0773994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1f2fef7d9e1b0fc6",
+        "Location": {
+          "Address": "Spuistraat 31 B, 2511 BC Den Haag, Netherlands",
+          "Business Name": "Intertoys",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0773994",
+            "Longitude": "4.3123860"
+          }
+        },
+        "Published": "2019-11-10T15:36:14.936085Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7352119,
+          58.9707251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe134e38402f49862",
+        "Location": {
+          "Address": "Klubbgata 5, 4013 Stavanger, Norway",
+          "Business Name": "Steam Café Stavanger",
+          "Country Code": "NO",
+          "Geo Coordinates": {
+            "Latitude": "58.9707251",
+            "Longitude": "5.7352119"
+          }
+        },
+        "Published": "2019-10-20T12:29:35.570961Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3171490,
+          52.0761904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8951856fb71dfc7f",
+        "Location": {
+          "Address": "Spui 191, 2511 BN Den Haag, Netherlands",
+          "Business Name": "Filmhuis Den Haag",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0761904",
+            "Longitude": "4.3171490"
+          }
+        },
+        "Published": "2019-10-10T21:20:36.346182Z",
+        "Review Comment": "Best place for off-Hollywood , unique films",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3172102,
+          52.0791213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x18aec8b42da810e8",
+        "Location": {
+          "Address": "Korte Houtstraat 14C, 2511 CD Den Haag, Netherlands",
+          "Business Name": "Cencalli",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0791213",
+            "Longitude": "4.3172102"
+          }
+        },
+        "Published": "2019-10-10T18:41:15.462416Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9110753,
+          51.5553583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x109968566d049e44",
+        "Location": {
+          "Address": "A58 2A, 5126 RX Gilze, Netherlands",
+          "Business Name": "La Place",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "51.5553583",
+            "Longitude": "4.9110753"
+          }
+        },
+        "Published": "2019-09-17T08:57:17.130568Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2808095,
+          52.1132215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7bac109579467a25",
+        "Location": {
+          "Address": "Strandweg 17, 17A, 2586 JK Den Haag, Netherlands",
+          "Business Name": "’t Pannekoekenhuisje – Pannenkoekenrestaurant Scheveningen",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.1132215",
+            "Longitude": "4.2808095"
+          }
+        },
+        "Published": "2019-09-17T08:56:55.393650Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2795254,
+          52.1123976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x17d779e48af57b48",
+        "Location": {
+          "Address": "Strandweg 13, 2586 JK Den Haag, Netherlands",
+          "Business Name": "Sea Life Scheveningen",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.1123976",
+            "Longitude": "4.2795254"
+          }
+        },
+        "Published": "2019-09-17T08:56:50.268972Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2776511,
+          52.1117838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3f175e5fd2ef0fa4",
+        "Location": {
+          "Address": "Strandweg 23-24, 2586 EK Den Haag, Netherlands",
+          "Business Name": "Beachclub & Strandtent Twins Scheveningen",
+          "Geo Coordinates": {
+            "Latitude": "52.1117838",
+            "Longitude": "4.2776511"
+          }
+        },
+        "Published": "2019-09-17T08:56:42.935595Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3417501,
+          52.0665321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7e69a7f6c4bd1d83",
+        "Location": {
+          "Address": "Zonweg 7-11, 2516 AK Den Haag, Netherlands",
+          "Business Name": "Bouwmaat XL Hague Binckhorst",
+          "Geo Coordinates": {
+            "Latitude": "52.0665321",
+            "Longitude": "4.3417501"
+          }
+        },
+        "Published": "2019-09-17T08:56:33.234195Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3171314,
+          52.0656669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd73baa553e866339",
+        "Location": {
+          "Address": "Van der Kunstraat 123, 2521 BR Den Haag, Netherlands",
+          "Business Name": "Megastores",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0656669",
+            "Longitude": "4.3171314"
+          }
+        },
+        "Published": "2019-09-17T08:56:18.433416Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3465737,
+          52.0896694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xead3df779cadaa54",
+        "Location": {
+          "Address": "Vlaskamp 3, 2592 AA Den Haag, Netherlands",
+          "Business Name": "Zwembad Overbosch",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0896694",
+            "Longitude": "4.3465737"
+          }
+        },
+        "Published": "2019-09-17T08:56:07.999345Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2969304,
+          52.0994757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xccfe81afc891bc40",
+        "Location": {
+          "Address": "George Maduroplein 1, 2584 RZ Den Haag, Netherlands",
+          "Business Name": "Madurodam",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0994757",
+            "Longitude": "4.2969304"
+          }
+        },
+        "Published": "2019-09-15T10:35:34.884836Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3151197,
+          52.0370357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x494abd2a22be5b03",
+        "Location": {
+          "Address": "Prins Willem Alexander Promenade 20, 2284 BK Rijswijk, Netherlands",
+          "Business Name": "Bogaard Shopping Center",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0370357",
+            "Longitude": "4.3151197"
+          }
+        },
+        "Published": "2019-09-15T10:35:21.053658Z",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.7666738,
+          50.3022948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x851d643153c395dc",
+        "Location": {
+          "Address": "Rue de Maredsous 11, 5537 Anhée, Belgium",
+          "Business Name": "Maredsous Abbey",
+          "Country Code": "BE",
+          "Geo Coordinates": {
+            "Latitude": "50.3022948",
+            "Longitude": "4.7666738"
+          }
+        },
+        "Published": "2019-09-15T10:35:00.120252Z",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.1128171,
+          52.0924298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcb73f73b5ccc3eb6",
+        "Location": {
+          "Address": "Vredenburgkade 11, 3511 WC Utrecht, Netherlands",
+          "Business Name": "TivoliVredenburg",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0924298",
+            "Longitude": "5.1128171"
+          }
+        },
+        "Published": "2019-09-15T10:34:40.907910Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3252778,
+          52.0522222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa62f7f1fedb65df",
+        "Location": {
+          "Address": "Julialaantje 15a, 2282 NW Rijswijk, Netherlands",
+          "Business Name": "Kinderboerderij Het Akkertje",
+          "Geo Coordinates": {
+            "Latitude": "52.0522222",
+            "Longitude": "4.3252778"
+          }
+        },
+        "Published": "2019-09-15T10:34:24.475950Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.4615360,
+          50.8934758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8eac13e15c072302",
+        "Location": {
+          "Address": "Bedrijvenzone Diegem-Vuurberg, Da Vincilaan 25, 1831 Brussel, Belgium",
+          "Business Name": "Novotel Brussels Airport",
+          "Country Code": "BE",
+          "Geo Coordinates": {
+            "Latitude": "50.8934758",
+            "Longitude": "4.4615360"
+          }
+        },
+        "Published": "2019-08-09T22:47:51.010765Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3159219,
+          52.0370878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1194d27d764defd6",
+        "Location": {
+          "Address": "Prins Johan Friso Promenade 119, 2284 DE Rijswijk, Netherlands",
+          "Business Name": "Barista Cafe",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0370878",
+            "Longitude": "4.3159219"
+          }
+        },
+        "Published": "2019-08-05T12:02:55.912356Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1895512,
+          45.4674021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1bade948102e834f",
+        "Location": {
+          "Address": "Via Filodrammatici, 2, 20121 Milano MI, Italy",
+          "Business Name": "Teatro alla Scala",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4674021",
+            "Longitude": "9.1895512"
+          }
+        },
+        "Published": "2019-07-31T15:14:54.827091Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1899726,
+          45.4664661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf04b6d03ef699bd3",
+        "Location": {
+          "Address": "Galleria Vittorio Emanuele II, 11, 20121 Milano MI, Italy",
+          "Business Name": "Leonardo3 Museum - Il Mondo di Leonardo",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4664661",
+            "Longitude": "9.1899726"
+          }
+        },
+        "Published": "2019-07-31T15:14:44.720038Z",
+        "Review Comment": "Very nice, they reconstructed many of the prototypes from the codec and the last supper installation is mesmerizing... Not sure why they don't allow photos though, that was a bit lame. But otherwise a must visit",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2033934,
+          45.4830890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x14d440956a86bdf9",
+        "Location": {
+          "Address": "Via Napo Torriani, 24, 20124 Milano MI, Italy",
+          "Business Name": "Atlantic Hotel Milano",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4830890",
+            "Longitude": "9.2033934"
+          }
+        },
+        "Published": "2019-07-30T15:08:12.301418Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1893745,
+          45.4672686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x74930dbeb2a87779",
+        "Location": {
+          "Address": "Largo Antonio Ghiringhelli, 1, 20121 Milano MI, Italy",
+          "Business Name": "Teatro alla Scala Museum",
+          "Country Code": "IT",
+          "Geo Coordinates": {
+            "Latitude": "45.4672686",
+            "Longitude": "9.1893745"
+          }
+        },
+        "Published": "2019-07-30T10:26:55.586210Z",
+        "Review Comment": "The theatre is being renovated so at this moment you can't see it in all its Glory, but still with the visit very much",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4172048,
+          52.5238955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x995be1b8358bc4c1",
+        "Location": {
+          "Address": "Bernhard-Weiß-Straße 5, 10178 Berlin, Germany",
+          "Business Name": "Hotel Indigo Berlin - Centre Alexanderplatz, an IHG Hotel",
+          "Country Code": "DE",
+          "Geo Coordinates": {
+            "Latitude": "52.5238955",
+            "Longitude": "13.4172048"
+          }
+        },
+        "Published": "2019-07-27T10:23:42.812225Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3876347,
+          50.8555847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1911c5e77d2444c",
+        "Location": {
+          "Address": "Rue François Bossaerts 101, 1030 Schaerbeek, Belgium",
+          "Business Name": "Dada Studios",
+          "Country Code": "BE",
+          "Geo Coordinates": {
+            "Latitude": "50.8555847",
+            "Longitude": "4.3876347"
+          }
+        },
+        "Published": "2019-07-25T13:48:44.507006Z",
+        "Review Comment": "Master sound engineers",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3123183,
+          52.0746586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x473fb2ea78b460df",
+        "Location": {
+          "Address": "Paviljoensgracht 20-24, 2512 BP Den Haag, Netherlands",
+          "Business Name": "The Grey Space in the Middle",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0746586",
+            "Longitude": "4.3123183"
+          }
+        },
+        "Published": "2019-07-08T13:07:12.090523Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3134661,
+          52.0753174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9fb60e7c00e68ddf",
+        "Location": {
+          "Address": "Wagenstraat 95, 2512 AS Den Haag, Netherlands",
+          "Business Name": "Kaa Lun Palace",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0753174",
+            "Longitude": "4.3134661"
+          }
+        },
+        "Published": "2019-07-08T13:07:03.134339Z",
+        "Review Comment": "Good dim sum, good price. Could be better but it's definitely my place to go.",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3265485,
+          52.0489463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x62869fcda441d485",
+        "Location": {
+          "Address": "Park de Wervelaan 25, Rijswijk, Netherlands",
+          "Business Name": "Rijswijk Forest",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0489463",
+            "Longitude": "4.3265485"
+          }
+        },
+        "Published": "2019-07-07T13:21:52.056386Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.4239094,
+          51.9129527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x531b6b2fc7ae92db",
+        "Location": {
+          "Address": "Marconistraat 39, 3029 AG Rotterdam, Netherlands",
+          "Business Name": "Weelde",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "51.9129527",
+            "Longitude": "4.4239094"
+          }
+        },
+        "Published": "2019-06-25T16:33:56.260407Z",
+        "Review Comment": "Good vibes good people..!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3174883,
+          52.0359067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1c0113b14e3c2c92",
+        "Location": {
+          "Address": "Bogaardplein 11, 2284 DP Rijswijk, Netherlands",
+          "Business Name": "Restaurant Made in Italy",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0359067",
+            "Longitude": "4.3174883"
+          }
+        },
+        "Published": "2019-06-23T11:19:55.620791Z",
+        "Review Comment": "Very good pizza, tiramisu.",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2914080,
+          52.0765420
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1856bc0d5ed319a8",
+        "Location": {
+          "Address": "De Constant Rebecqueplein 20B, 2518 RA Den Haag, Netherlands",
+          "Business Name": "Studio LOOS",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0765420",
+            "Longitude": "4.2914080"
+          }
+        },
+        "Published": "2019-06-23T11:18:07.919975Z",
+        "Review Comment": "The best new new music venue of The Hague.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3027299,
+          52.0452108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8bd21b8190e43c8",
+        "Location": {
+          "Address": "Van Vredenburchweg 170, 2285 SE Rijswijk, Netherlands",
+          "Business Name": "Brasserie Bijna Thuis",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0452108",
+            "Longitude": "4.3027299"
+          }
+        },
+        "Published": "2019-06-22T10:33:05.653114Z",
+        "Review Comment": "Very relaxed restaurant in the middle of a small Forest. Forget that you are in the middle of a city. Good food too",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2937150,
+          52.0765686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7fa42a27b94b5dd6",
+        "Location": {
+          "Address": "De Constant Rebecquestraat 2-A, 2518 RD Den Haag, Netherlands",
+          "Business Name": "Restaurant Bajwa I.",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0765686",
+            "Longitude": "4.2937150"
+          }
+        },
+        "Published": "2019-03-09T21:12:25.903357Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7491444,
+          50.9104976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf4c3453a4cec6cea",
+        "Location": {
+          "Address": "Różyckiego 4, 58-500 Jelenia Góra, Poland",
+          "Business Name": "American Burger",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.9104976",
+            "Longitude": "15.7491444"
+          }
+        },
+        "Published": "2018-08-08T17:02:04.090Z",
+        "Review Comment": "Daaaaamnnn. Five stars ain't enough for this place. I never thought up in the Polish mountains is where I'd find the best burger o' my life.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7483220,
+          50.7740690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc0695a1ac9586fc2",
+        "Location": {
+          "Address": "Mickiewicza 11, 58-540 Karpacz, Poland",
+          "Business Name": "Private Museum of Video Games Consoles",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.7740690",
+            "Longitude": "15.7483220"
+          }
+        },
+        "Published": "2018-08-08T12:48:57.773Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7819961,
+          50.7827738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf43b0a2627b74b8f",
+        "Location": {
+          "Address": "Ściegny 200, 58-534 Ściegny, Poland",
+          "Business Name": "Western City",
+          "Country Code": "PL",
+          "Geo Coordinates": {
+            "Latitude": "50.7827738",
+            "Longitude": "15.7819961"
+          }
+        },
+        "Published": "2018-08-07T15:30:27.607Z",
+        "Review Comment": "Incredibly bad place. You pay an entrance fee that includes five 45 second activities, everything else you have to pay for. The live show gives them one star.  One of the activities is a pole, literally a stick in the ground your supposed to climb, unattended.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3205056,
+          52.0698605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x44f997ba9e4abc40",
+        "Location": {
+          "Address": "Stationsplein 5, 2515 BT Den Haag, Netherlands",
+          "Business Name": "Phad Thai",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0698605",
+            "Longitude": "4.3205056"
+          }
+        },
+        "Published": "2018-01-21T10:19:19.004Z",
+        "Review Comment": "I go there almost exclusively for the Pad Thai which is the best I  the Hague.  Staff is super friendly and prices are low.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2926137,
+          52.0814931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf6b6123440e9eea8",
+        "Location": {
+          "Address": "Prins Hendrikstraat 78, 2518 HV Den Haag, Netherlands",
+          "Business Name": "Bakery \"Maxima\"",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0814931",
+            "Longitude": "4.2926137"
+          }
+        },
+        "Published": "2018-01-21T10:14:05.098Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2869120,
+          52.0810051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf2ad566ced39fb30",
+        "Location": {
+          "Address": "Laan van Meerdervoort 188A, 2517 BH Den Haag, Netherlands",
+          "Business Name": "That's Amore",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0810051",
+            "Longitude": "4.2869120"
+          }
+        },
+        "Published": "2018-01-21T10:10:12.760Z",
+        "Review Comment": "Best coffee espresso around and then there's the food.  Great fresh sandwiches and the pasta is sinfully good.  I'm constantly taking colleagues there.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.2758600,
+          52.0711160
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcae2c40e8d3915f",
+        "Location": {
+          "Address": "Cartesiusstraat 227, 2562 SH Den Haag, Netherlands",
+          "Business Name": "Romy's Corner",
+          "Geo Coordinates": {
+            "Latitude": "52.0711160",
+            "Longitude": "4.2758600"
+          }
+        },
+        "Published": "2016-11-12T15:38:21.379Z",
+        "Review Comment": "Always good food and the owners are very nice.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3114888,
+          52.0751708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb55d3d85983503eb",
+        "Location": {
+          "Address": "Gedempte Burgwal 41, 2512 BS Den Haag, Netherlands",
+          "Business Name": "Full Moon Express (wok - sushi - noodle soup - bento)",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0751708",
+            "Longitude": "4.3114888"
+          }
+        },
+        "Published": "2016-02-14T12:24:08.954Z",
+        "Star Rating": 2
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3043395,
+          52.0812834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe7ad28b3f1a2b417",
+        "Location": {
+          "Address": "Prinsessewal, 2513 EE Den Haag, Netherlands",
+          "Business Name": "Paleistuin",
+          "Country Code": "NL",
+          "Geo Coordinates": {
+            "Latitude": "52.0812834",
+            "Longitude": "4.3043395"
+          }
+        },
+        "Published": "2013-06-17T19:21:49.863520Z",
+        "Review Comment": "Nice park for kids to run around, slide and feed the ducks. Nicely designed children playground",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    }
+  ]
+}
